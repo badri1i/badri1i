@@ -11,13 +11,13 @@
 
 - 📝 I regularly post updates on [linkedin.com/in/badri-nagarajan](linkedin.com/in/badri-nagarajan)
 
-- My skills include **Python, API's, SQL, Agent Development, HTML, CSS, TailwindCSS**
+- My skills include: **Python, API's, SQL, Agent Development, HTML, CSS, TailwindCSS**
 
-- 📫 How to reach me **badrinrc@gmail.com**
+- 📫 How to reach me: **badrinrc@gmail.com**
 
-- 📄 Know about my experiences [docs.google.com/document/d/1IrB97H5ryh0Nabmbb0Li7RIAK3Scr-53/edit?usp=sharing&ouid=104658677896671977602&rtpof=true&sd=true](docs.google.com/document/d/1IrB97H5ryh0Nabmbb0Li7RIAK3Scr-53/edit?usp=sharing&ouid=104658677896671977602&rtpof=true&sd=true)
+- 📄 Know about my experiences: [docs.google.com/document/d/1IrB97H5ryh0Nabmbb0Li7RIAK3Scr-53/edit?usp=sharing&ouid=104658677896671977602&rtpof=true&sd=true](docs.google.com/document/d/1IrB97H5ryh0Nabmbb0Li7RIAK3Scr-53/edit?usp=sharing&ouid=104658677896671977602&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I love to play poker and any card games**
+- ⚡ Fun fact: **I love to play poker and any card games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
