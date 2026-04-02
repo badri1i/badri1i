@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **learning NVIDIA Omniverse**
 
-- 🌱 I’m currently a **freshman at University of Central Florida**
+- 🌱 I’m currently a **rising sophomore at University of Central Florida**
 
 - 🤝 I’m looking for help with **finding internships & research experience**
 
