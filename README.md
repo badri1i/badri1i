@@ -14,8 +14,6 @@
 - My skills include: **Python, API's, Agent Development, HTML, CSS, TailwindCSS**
 
 - 📫 How to reach me: **badrinrc@gmail.com**
-- 
-- ⚡ Fun fact: **I love to play poker and any card games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
