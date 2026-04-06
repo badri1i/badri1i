@@ -11,7 +11,7 @@
 
 - 📝 I regularly post updates on [linkedin.com/in/badri-nagarajan](linkedin.com/in/badri-nagarajan)
 
-- My skills include: **Python, API's, SQL, Agent Development, HTML, CSS, TailwindCSS**
+- My skills include: **Python, API's, Agent Development, HTML, CSS, TailwindCSS**
 
 - 📫 How to reach me: **badrinrc@gmail.com**
 - 
